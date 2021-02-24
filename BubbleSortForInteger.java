@@ -1,6 +1,6 @@
-package bubblesort;
+package bubblesortforinteger;
 
-public class BubbleSort {
+public class BubbleSortForInteger {
 
     public static void main(String[] args) {
         int[] arr={36,19,29,12,5};
